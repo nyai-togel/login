@@ -3942,7 +3942,7 @@
                             </button><button type="button"
                                 class="btn m-tray-shop__secondary-action btn--no-space btn--full-width tp-btn--medium"
                                 data-action="navigation--tray-trigger#openTray containers--drawer-component#handlePrimaryDrawerCloseButton click-&gt;rudderstack--filter-clicked#track"
-                                data-targeted-tray="shop-home-goods" data-cart-id="0ce71PbWWqgKDBDorh525uecKaGZD21FGSoCeR"
+                                data-targeted-tray="shop-home-goods" data-cart-id="0ce71PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR"
                                 data-filter-name="Canvas" data-filter-option-label="Home Goods">
                                 <div class='button__content'>
                                     <div class='m-tray-shop__secondary-action-text'>
